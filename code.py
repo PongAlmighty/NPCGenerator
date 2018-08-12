@@ -34,7 +34,7 @@ led = simpleio.DigitalOut(board.D13)
 # LeftButton.direction = Direction.INPUT
 # LeftButton.pull = Pull.DOWN
 
-LeftButton = GPIO.input(27)  # test
+LeftButton = GPIO.input(27)  # test 1
 
 
 
