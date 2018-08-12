@@ -24,7 +24,7 @@ import random
 import RPi.GPIO as GPIO
 GPIO.setmode(GPIO.BOARD)
 GPIO.setwarnings(False)
-GPIO.setup(27,GPIO.IN)
+GPIO.setup(27,GPIO.IN, pull_up_down=GPIO.PUD_DOWN)
 
 
 led = simpleio.DigitalOut(board.D13)
@@ -34,7 +34,7 @@ led = simpleio.DigitalOut(board.D13)
 # LeftButton.direction = Direction.INPUT
 # LeftButton.pull = Pull.DOWN
 
-LeftButton = GPIO.input(27)  # test
+LeftButton = GPIO.input('27')  # test 1
 
 
 
