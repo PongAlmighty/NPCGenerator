@@ -12,18 +12,32 @@
 # Digits 5-8 = last name
 # ALL digits (halfed until under 50) = first name
 
-import board
-import time
-import simpleio
-import random
-from digitalio import DigitalInOut, Direction, Pull
+#Old and busted circuit Python Stuff
+#import board
+#import simpleio
+#from digitalio import DigitalInOut, Direction, Pull
 
- 
+
+import time
+import random
+
+import RPi.GPIO as GPIO
+GPIO.setmode(GPIO.BOARD)
+GPIO.setwarnings(False)
+GPIO.setup(27,GPIO.IN)
+
+
 led = simpleio.DigitalOut(board.D13)
-LeftButton = DigitalInOut(board.BUTTON_A)
-LeftButton.direction = Direction.INPUT
-LeftButton.pull = Pull.DOWN
-    
+
+#CP stuff:
+#LeftButton = DigitalInOut(board.BUTTON_A)
+#LeftButton.direction = Direction.INPUT
+#LeftButton.pull = Pull.DOWN
+
+LeftButton = GPIO.input(27)
+
+
+
 def Rounder( IntInput, MaxNum):
     if (IntInput > MaxNum):
         #print("number over " + (str(MaxNum)) + "! Lowered " + (str(IntInput))) 
