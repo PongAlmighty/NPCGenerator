@@ -29,12 +29,12 @@ GPIO.setup(27,GPIO.IN)
 
 led = simpleio.DigitalOut(board.D13)
 
-#CP stuff:
-#LeftButton = DigitalInOut(board.BUTTON_A)
-#LeftButton.direction = Direction.INPUT
-#LeftButton.pull = Pull.DOWN
+# CP stuff:
+# LeftButton = DigitalInOut(board.BUTTON_A)
+# LeftButton.direction = Direction.INPUT
+# LeftButton.pull = Pull.DOWN
 
-LeftButton = GPIO.input(27)
+LeftButton = GPIO.input(27)  # test
 
 
 
