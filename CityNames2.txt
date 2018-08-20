@@ -1,0 +1,101 @@
+The Halls of Aentha |North|
+Cherak |North|
+Firespring |North|
+Scarlet Fortress |North|
+Gethamane |North|
+Ghedaran |North|
+Gorot, City of the Wall |North|
+The Haslanti League |North|
+Crystal |North|
+Diamond Hearth |North|
+Icehome |North|
+The Empire of Kruzky |North|
+Lanyk |North|
+Pandora |North|
+Sapphire Crown |North|
+Skipari |North|
+Snowguard |North|
+Solovan |North|
+Tideholme |North|
+Whitewall |North|
+City of the Moon |North|
+Halta |NorthEast|
+Oddities of the Northeast |NorthEast|
+Ghedaran |NorthEast|
+Honmai |NorthEast|
+Ardeleth |East|
+Fallen Lapis Square |East|
+Bloody River |East|
+Chaing-Dav Square |East|
+Republic of Chaya |East|
+Dehassias |East|
+The Gossamer Stockade |East|
+Jarrith |East|
+Farhold Square |East|
+Black Branches |East|
+Chanta Square |East|
+Glorious Crown Square |East|
+Greybark |East|
+Kajeth Square |East|
+Resplendent Peak Square |East|
+River Blossom Square |East|
+Sal-Maneth Square |East|
+Sarasi |East|
+Trinu Square |East|
+Yagan Square |East|
+The Hyong Towns |East|
+Inaria |East|
+Jades Square |East|
+Khryal Square |East|
+Linowan Nation |East|
+Rubylak Square |East|
+Wangler's Knob Square |East|
+Lost Zarlath Square |East|
+Mahalanka Square |East|
+Rathess Square |East|
+Rokan-Jin |East|
+Rubedo, the Red City Beyond the World |East|
+CrownedSun/Sijan |East|
+The Six Baronies |East|
+Talinin |East|
+Thorns |East|
+Tibar |East|
+Kingdom of Valeria |East|
+White Sea's Wrath |East|
+BogMod/GrassSea |SouthEast|
+Kulatya |SouthEast|
+The Garden |SouthEast|
+Aian The Deep Palace |SouthEast|
+The Courts of Ivory And Silk |SouthEast|
+Alom Vilag |South|
+An-Teng |South|
+Adorned With Wisdom as a Sapphire |South|
+City of Dead Flowers |South|
+City of the Steel Lotus |South|
+Jade Plum Citadel |South|
+PinnacleOfMercy |South|
+Port of Dragon's Jaw |South|
+Prosperous Garden |South|
+Salt-Founded Glory |South|
+Bright Crow |South|
+Chiaroscuro |South|
+Gem |South|
+The Kingdom of Harborhead |South|
+Bent Creek |South|
+Kirighast |South|
+Tiraktou |South|
+The Lap |South|
+Paragon |South|
+The Pits of Khal |South|
+Prismat |South|
+Ranavir |South|
+Varang City-States |South|
+Alahi |West|
+Bluehaven |West|
+Brume |West|
+Coral Archipelago |West|
+Azure |West|
+Mantaville |West|
+Ilmarini |West|
+The Neck |West|
+Nightfall Island |West|
